@@ -1,0 +1,36 @@
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Ignore user-specific files
+ntuser.dat
+ntuser.dat.log*
+NTUSER.DAT*
+ntuser.ini
+
+# Ignore user directories
+AppData/
+Contacts/
+Cookies/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Ignore editor specific folders
+.vscode/
+.idea/
+
+# Ignore other common folders
+.cache/
+.config/
+.local/
+.android/
